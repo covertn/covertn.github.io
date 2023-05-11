@@ -12,7 +12,7 @@ My GitHub page is http://github.com/covertn
 
     I enjoyed Lab 12 most of all for 2 reasons. The first reason is we were able
     to create image files that did not exist beforehand using only code. The 
-    second reason is that we were ussing an image library that allowed us to create
+    second reason is that we were using an image library that allowed us to create
     images using RGB values.
 
 * Lab 11
